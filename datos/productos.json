@@ -1,0 +1,20 @@
+[
+    {
+        "id_usuario": "ADM-001",
+        "nombre": "Administrador Sistema",
+        "usuario": "admin",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": "EMP-001",
+        "nombre": "Carlos Mendoza",
+        "usuario": "cmendoza",
+        "rol": "Empleado"
+    },
+    {
+        "id_usuario": "CLI-001",
+        "nombre": "Ana Gómez",
+        "usuario": "agomez",
+        "rol": "Cliente"
+    }
+]

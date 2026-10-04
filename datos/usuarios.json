@@ -1,0 +1,14 @@
+[
+    {
+        "id_usuario": "U001",
+        "nombre": "Administrador Sistema",
+        "usuario": "admin",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": "U002",
+        "nombre": "Juan Pérez",
+        "usuario": "jperez",
+        "rol": "Empleado"
+    }
+]
